@@ -80,3 +80,4 @@ bot.run("MTQ0NzcwMDA3MTIyNjU0MDEzNQ.GkrC7I.gAWIEEiX3qSC4jsiOMgex5OZaRVWduf4q-nPm
 
 
 
+https://github.com/user-attachments/assets/67c1f7ae-076c-4447-af25-525f79c18b39
